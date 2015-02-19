@@ -1,0 +1,10 @@
+/* DEVELOPER */
+  Developer: Arturas Drumsta
+  Contact: drumsta [at] gmail.com
+  From: Ireland
+
+/* SITE */
+  Last update:2015/02/19
+  Language: English
+  Doctype:HTML5
+  IDE: GitHub
